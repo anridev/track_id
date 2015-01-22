@@ -1,3 +1,3 @@
 # track_id
-Web Socket server to push current playing track ID on my radio.<br>
+Web Socket server to give you track ID currently playing on my radio station.<br>
 Uses Bottle Python lib
